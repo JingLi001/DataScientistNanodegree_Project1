@@ -15,9 +15,9 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 For this project, I was interestested in using Titanic survivors data to better understand:
 
 1. How to look at the data?
-2. How to deal with the missing values and how to choose the proper imput methods based on the given dataset?
-3. In general, do sex appear to have higer survived possibility?
-4. How many of the columns are consirded categorical? How to handle them?
+2. How to deal with the missing values and how to choose the proper impute methods based on the given data set?
+3. In general, do sex appear to have higher survived possibility?
+4. How many of the columns are considered categorical? How to handle them?
 5. How to build the model for predicting the survived possiblity?
 6. How to modify the parameteres to get a higher accuracy?
 
