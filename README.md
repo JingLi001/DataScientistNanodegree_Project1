@@ -28,9 +28,9 @@ All the project code is contained in a Jupyter notebook, which demonstrates succ
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://jingli11.medium.com/how-to-start-being-a-data-scientist-735c9c2f5e1).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-You can find the Licensing for the data and other descriptive information at the Kaggle link https://www.kaggle.com/panamby/titanic-survivors/comments?select=train.csv. Otherwise, feel free to use the code here as you would like! 
+You can find the Licensing for the data and other descriptive information at the Kaggle link here.(https://www.kaggle.com/panamby/titanic-survivors/comments?select=train.csv). Otherwise, feel free to use the code here as you would like! 
 
